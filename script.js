@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const imageLinks = [
         //{ "src": "images/image1.jpg", "url": "link" },
+        { "src": "images/image10.jpg", "url": "https://noclip.website/#dq8/c05i01;ShareData=AY-hSUc$A_R]TfnTC/f99qg$Z6d-)RUWi?O8vRK3ViFF+8U?N~TlM-vUup2J+5" },
         { "src": "images/image9.jpg", "url": "https://noclip.website/#dq8/m07i01;ShareData=AWr]{Ub[2uS+^k68Z$DM9T;:V3*0&3Usw-hUG?;wVAY7*TAdJM9gW;rUu@1eU!" },
         { "src": "images/image8.jpg", "url": "https://noclip.website/#dq8/m04i04;ShareData=AS/{;92UMd8/hq3UT2~aVfP|W5=He4UXytvUELZ5VQA979cX^xUNy0g97Trw+d" },
         { "src": "images/image7.jpg", "url": "https://noclip.website/#dq8/m08i04;ShareData=AP4qDS7v749Z$A8UW*kBU&7F_Q2a_NUaWZ+T}[~NVs/+S9n;vo7n[NMS_S1EVS" },
