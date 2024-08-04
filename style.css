@@ -1,17 +1,24 @@
 body {
     background-color: blueviolet;
 }
+#ImageWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+}
 .image-container {
-    margin: 20px;
+    margin: 0px;
 }
 img {
     width: 200px;
     height: 200px;
     object-fit: cover;
-    border: 2px solid #000;
+    
     border-radius: 10px;
     transition: transform 0.2s;
 }
 img:hover {
-    transform: scale(1.1);
+    transform: scale(1.3);
+    border: 4px solid #ffffff;
 }
