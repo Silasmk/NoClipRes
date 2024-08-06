@@ -2,6 +2,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const imageLinks = [
         //{ "src": "images/image1.jpg", "url": "link" },
+        { "src": "images/image14.jpg", "url": "https://noclip.website/#kh/al00_05;ShareData=AE$lrUWw4Q9QP^MUnE@GV@bC&5}M3vUr:koUL6~bVt8mo90)WQ9ehCWUWHHHV[" },
+        { "src": "images/image13.jpg", "url": "https://noclip.website/#kh/al00_04;ShareData=AKSMp9tOty9cYTCUCnRj=0MnP5fWTdUvL[IULm:mWIOnh9R{jXT|uVo9m^CC+^" },
+        { "src": "images/image12.jpg", "url": "https://noclip.website/#kh/tz00_02;ShareData=ACbT8Utpd,83;:LUT1+2=&V-KQ)md1Uu4G7Tz&PiVyiuu9d]mo8-)beUdW==+5" },
+        { "src": "images/image11.jpg", "url": "https://noclip.website/#kh/tz00_02;ShareData=AUEjm91FiXT!Y0M9xk+x=I(pjQ]7*lUt~PrT{jjxVyfQ1Ub:2CT@dec9h8-s+^" },
         { "src": "images/image10.jpg", "url": "https://noclip.website/#dq8/c05i01;ShareData=AY-hSUc$A_R]TfnTC/f99qg$Z6d-)RUWi?O8vRK3ViFF+8U?N~TlM-vUup2J+5" },
         { "src": "images/image9.jpg", "url": "https://noclip.website/#dq8/m07i01;ShareData=AWr]{Ub[2uS+^k68Z$DM9T;:V3*0&3Usw-hUG?;wVAY7*TAdJM9gW;rUu@1eU!" },
         { "src": "images/image8.jpg", "url": "https://noclip.website/#dq8/m04i04;ShareData=AS/{;92UMd8/hq3UT2~aVfP|W5=He4UXytvUELZ5VQA979cX^xUNy0g97Trw+d" },
