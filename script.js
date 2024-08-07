@@ -2,6 +2,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const imageLinks = [
         //{ "src": "images/image1.jpg", "url": "link" },
+        { "src": "images/image17.jpg", "url": "https://noclip.website/#klonoa/s510;ShareData=AY,uaUk&XaT|Ee~94:aV+}}2f6GfI,UZHs9UF17jVz|I9Unv*89P}qBUm6)aV[" },
+        { "src": "images/image16.jpg", "url": "https://noclip.website/#klonoa/s511;ShareData=AG4S+UZe@_9Y0PrUd(m~VY:L-QZq|*UXc6eT}u]^VgwrP9v}o{9StEBUda(_Vt" },
+        { "src": "images/image15.jpg", "url": "https://noclip.website/#klonoa/s512;ShareData=AFS3uUvZrYULY5C93naZ+(o1TQO}M0Uh)-9UI@PcVs28dUZ]s49O9cMUl&ZFVt" },
         { "src": "images/image14.jpg", "url": "https://noclip.website/#kh/al00_05;ShareData=AE$lrUWw4Q9QP^MUnE@GV@bC&5}M3vUr:koUL6~bVt8mo90)WQ9ehCWUWHHHV[" },
         { "src": "images/image13.jpg", "url": "https://noclip.website/#kh/al00_04;ShareData=AKSMp9tOty9cYTCUCnRj=0MnP5fWTdUvL[IULm:mWIOnh9R{jXT|uVo9m^CC+^" },
         { "src": "images/image12.jpg", "url": "https://noclip.website/#kh/tz00_02;ShareData=ACbT8Utpd,83;:LUT1+2=&V-KQ)md1Uu4G7Tz&PiVyiuu9d]mo8-)beUdW==+5" },
