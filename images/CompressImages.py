@@ -33,7 +33,7 @@ def process_images(input_folder, output_folder):
             if filename.lower().endswith('.png'):
                 image = resize_and_crop(image)
                 filename = filename.rsplit('.', 1)[0] + '.jpg'
-                #os.remove(filepath)  # Remove the original PNG file
+                os.remove(filepath)  # Remove the original PNG file
             
             output_path = os.path.join(output_folder, filename)
             cv2.imwrite(output_path, image, [int(cv2.IMWRITE_JPEG_QUALITY), 50])  # Set quality to 50%

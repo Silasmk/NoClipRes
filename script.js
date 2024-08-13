@@ -1,14 +1,15 @@
 document.addEventListener('DOMContentLoaded', function() {
 
     const imageLinks = [
-        //{ "src": "images/image1.jpg", "url": "link" },
+        //{ "src": "images/image1.jpg", "url": "link", "type": "n" },
+        { "src": "images/image28.jpg", "url": "https://noclip.website/#klonoa/s631;ShareData=ALolK94NmvTM+ym9HY]1+2*0c6DZhYUrt_oTcxxdVm|?MUNa7UTls[}95DS7Vt", "type": "b" },
         { "src": "images/image27.jpg", "url": "https://noclip.website/#klonoa/s120;ShareData=ANc85Umdcu8]9wr9gHBqV=qZ~5Ti7!Uqeb99bMm8+3(N|UO_uCT)_jCUsM:=Vt", "type": "n" },
         { "src": "images/image26.jpg", "url": "https://noclip.website/#klonoa/s818;ShareData=AFMjsUZv9uTu0zR9z5c=+ge[J5$ur1UphU~T?Y~GV0F}&Ur!G{82JN$UZjiB98", "type": "n"  },
-        { "src": "images/image25.jpg", "url": "https://noclip.website/#klonoa/s732;ShareData=AT[C2UX:NtSf[O*Ti_l{Un4bl3vI[~UrYIx85$^^9~zIS8mZK?Tn;[1UoHjAVt", "type": "n"  },
-        { "src": "images/image24.jpg", "url": "https://noclip.website/#klonoa/s731;ShareData=AIj6KUcC}uS$8OV8sH_YVGjT$O[r+AUcCI{T=~~V+SyS_TzBf&8&{?eUt7-0Vt", "type": "n"  },
-        { "src": "images/image23.jpg", "url": "https://noclip.website/#klonoa/s730;ShareData=AFL6jUg?n8T_ptBT|Do!V,g5XPtRvLUW}wf9U9Gi+-;899NYL!UINA)Ui+GcV[", "type": "n"  },
+        { "src": "images/image25.jpg", "url": "https://noclip.website/#klonoa/s732;ShareData=AT[C2UX:NtSf[O*Ti_l{Un4bl3vI[~UrYIx85$^^9~zIS8mZK?Tn;[1UoHjAVt", "type": "b"  },
+        { "src": "images/image24.jpg", "url": "https://noclip.website/#klonoa/s731;ShareData=AIj6KUcC}uS$8OV8sH_YVGjT$O[r+AUcCI{T=~~V+SyS_TzBf&8&{?eUt7-0Vt", "type": "b"  },
+        { "src": "images/image23.jpg", "url": "https://noclip.website/#klonoa/s730;ShareData=AFL6jUg?n8T_ptBT|Do!V,g5XPtRvLUW}wf9U9Gi+-;899NYL!UINA)Ui+GcV[", "type": "b"  },
         { "src": "images/image22.jpg", "url": "https://noclip.website/#klonoa/s631;ShareData=AVdZ$9jqIi86N&JT;x~TU/|xd5{)}-UVoxRUU@!yVWKN~9But6UI3nI9g|[3+5", "type": "n"  },
-        { "src": "images/image21.jpg", "url": "https://noclip.website/#klonoa/s630;ShareData=AY]nTUoV&fSAz!)TK5mUVnSQiQ-jrdUW8248+M--+9MYI8JZNBTzc~AUr=j;V[", "type": "n"  },
+        { "src": "images/image21.jpg", "url": "https://noclip.website/#klonoa/s630;ShareData=AY]nTUoV&fSAz!)TK5mUVnSQiQ-jrdUW8248+M--+9MYI8JZNBTzc~AUr=j;V[", "type": "b"  },
         { "src": "images/image20.jpg", "url": "https://noclip.website/#dks/m12_00_00_01;ShareData=AYl1|UWF0w8xWb99PkBb+:3q76qAf4Uj5:h8$G^&+PMK1UJdx*T0qIXUa&l,+5", "type": "n"  },
         { "src": "images/image19.jpg", "url": "https://noclip.website/#kh2fm/ca04;ShareData=AIoeaUoJ1=Tjd=M9eG)x+]m[N5=9!?Uk8OST5ND8Vyj-cUIHEG8$?1gUuGrTV[", "type": "n"  },
         { "src": "images/image18.jpg", "url": "https://noclip.website/#smg/SnowCapsuleGalaxy;ShareData=ATs[093zhk7;/*jTpzulU^~iKQ5:;pUskuoT^R^eWF$)L82&]mUGU&W9k9Ss+^q", "type": "n"  },
