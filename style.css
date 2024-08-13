@@ -7,7 +7,7 @@ h1 {
     font-size: 40px;
     text-align: center;
 }
-#ImageWrapper {
+.Wrappers {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
