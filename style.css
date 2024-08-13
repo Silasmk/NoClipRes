@@ -8,7 +8,8 @@ h1 {
     text-align: center;
 }
 .Wrappers {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjusts the size of each image based on available space */
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 10px;
