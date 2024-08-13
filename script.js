@@ -48,6 +48,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
         link.appendChild(img);
         container.appendChild(link);
-        s_gallery.appendChild(container);
+        if (image.type == "b") {
+            b_gallery.appendChild(container);
+        }
+        else {
+            s_gallery.appendChild(container);
+        }
     });
 });
