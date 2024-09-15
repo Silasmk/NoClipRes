@@ -2,6 +2,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const imageLinks = [
         //{ "src": "images/image1.jpg", "url": "link", "type": "n" },
+        { "src": "images/image34.jpg", "url": "link", "https://noclip.website/#TeamFortress2/pass_district;ShareData=AZ60s9kk?n8b4J@T6}~M=6Svh5:b^oUjzL~T!&b0V4t4-8|tGsT@Rkd927mbWq": "n" },
+        { "src": "images/image33.jpg", "url": "https://noclip.website/#TeamFortress2/pass_district;ShareData=ACRLL9p,Fw8{UnrUZkW,=rlj?Qr9GKUpW6sT{C7:VvG;b9s-_~UPc-g9tV38Wq", "type": "n" },
         { "src": "images/image32.jpg", "url": "https://noclip.website/#klonoa/s413;ShareData=AG;d_UO_CvT/[Nq9y=2t=M?V;Q$eKTUXIP_T3I!w969{bUszoL87YMlT{rD|+^", "type": "n" },
         { "src": "images/image31.jpg", "url": "https://noclip.website/#klonoa/s410;ShareData=AOrhBUb]o~70WN=8nswQVLpDzQ-+9gUo{+58k@5AVwqtlTrn!sTrTTDUY1F;Vt", "type": "n" },
         { "src": "images/image30.jpg", "url": "https://noclip.website/#klonoa/s314;ShareData=AWYS{S^}z4T_!Bn9qVCz=Q)mV5:*J,Ua73|T,1(4+{*FrUrW@G7rsf*TDRdr+^", "type": "n" },
